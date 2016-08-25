@@ -25,6 +25,6 @@ page: 4
 - Tobias Zielony (2009–2011)
 
 ## eigene Texte und Artikel:
-bevorzugte Themenbereiche: Kunstsoziologie, öffentlicher Raum, Produktions- und Arbeitsbedingungen im kreativen Feld; Veröffentlichungen im Wochenmagazin „Jungle World“ und im Kunstmagazin „von hundert“ (seit 2006)
+bevorzugte Themenbereiche: Kunstsoziologie, öffentlicher Raum, Produktions- und Arbeitsbedingungen im kreativen Feld; Veröffentlichungen im Wochenmagazin „Jungle World“ und im Kunstkritikmagazin „von hundert“ (seit 2006)
 
 [Link zum Textarchiv]( http://trafo-m.de/dianaartus/?page_id=34)
