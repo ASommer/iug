@@ -12,6 +12,7 @@ page: 4
 * BARarchitekten, Berlin: Katalog und Präsentationstexte für die Ausstellung „Ludwig Leo – Ausschnitt“ (2013)
 
 ## Lektorat im Wissenschaftsbereich:
+- Dominik Trutkowski, HU Berlin, Institut für Geschichtswissenschaften: Dissertation „Parlamentarische Kultur in Spanien und Polen“ (2015)
 - SRH Fernhochschule Riedlingen: Studienbriefe aus verschiedenen Fachgebieten (seit 2013)
 - Universität Tübingen, Fachbereich Erziehungswissenschaften: Tagungsband „Bildung und Bewältigung im Zeichen von sozialer Ungleichheit“ sowie diverse Forschungsschriften von Lehrenden und Doktoranden des Fachbereichs (2013)
 
